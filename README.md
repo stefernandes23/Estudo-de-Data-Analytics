@@ -15,10 +15,13 @@ Aqui vocês encontrarão exercicíos de aula, mini projetos realizados individua
 
 Escolhi dividir o conteúdo em módulos pois assim ficará mais fácil de acompanhar a evolução do conteúdo durante o curso. Na primeira coluna da tabela ficará o link do exercício ja resolvido, na segunda coluna ficará o conteúdo práticado no exercício em questão.
 <p>
---
+
+
 </p>
 
 **Alguma dúvida? Entre em contato comigo!**
+
+
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizasampaiods/) [![Gmail](https://img.shields.io/badge/-Gmail-e3241e?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=ssampaiolu@gmail.com&su=Contato%20via%20curr%C3%ADculo.&body=&bcc=&tf=cm)
 
 
