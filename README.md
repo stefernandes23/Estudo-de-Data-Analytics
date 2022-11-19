@@ -31,6 +31,8 @@ Escolhi dividir o conteúdo em módulos pois assim ficará mais fácil de acompa
 | Exercício | Conteúdo |
 |--|--|
 | [**Variando**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Variando.py)  | `variáveis` |  
+|[**Ajustando salário**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Ajustando-sal%C3%A1rio.py)|`types`, `operadores`|
+|[**Metros para centímetros**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Metros-para-cent%C3%ADmetros.py)|`types`,`operadores`
 
 
 
