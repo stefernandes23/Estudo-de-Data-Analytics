@@ -9,7 +9,7 @@
 
 Esse repositório foi criado na intenção de juntar todos os conteúdos práticados durante o bootcamp de Data Analyst da Resilia Educação para que nenhum aprendizado da minha jornada seja perdido. 
 
-Aqui vocês encontrarão exercicíos de aula, mini projetos realizados individualmente e projetos de final módulo realizados em squad. Foram 6 meses em que tive a oportunidade de aprender muitas coisas e espero que esse repositório possa auxiliar também o seu aprendizado.
+Aqui você encontrará exercicíos de aula, mini projetos realizados individualmente e projetos de final módulo realizados em squad. Foram 6 meses em que tive a oportunidade de aprender muitas coisas e espero que esse repositório possa auxiliar também o seu aprendizado.
 
 ### Como está organizado esse repositório?
 
@@ -26,10 +26,11 @@ Escolhi dividir o conteúdo em módulos pois assim ficará mais fácil de acompa
 
 
 
-## Módulo 1:
+## Módulo 1
 
 | Exercício | Conteúdo |
 |--|--|
-| [**Variando**](https://github.com/lucasCanella/jornada-Resilia/blob/main/M1Pythonfundamentos%20(06-2022)/Exerc%C3%ADcios/Atividade%20-%20variando.py)  | `variáveis` |  
+| [**Variando**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Variando.py)  | `variáveis` |  
+
 
 
