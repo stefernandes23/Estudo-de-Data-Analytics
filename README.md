@@ -28,7 +28,7 @@ Escolhi dividir o conteúdo em módulos pois assim ficará mais fácil de acompa
 
 ## Módulo 1:
 
-| Exercício | Conteúdo  
+| Exercício | Conteúdo |
 |--|--|--|
 | [**Variando**](https://github.com/lucasCanella/jornada-Resilia/blob/main/M1Pythonfundamentos%20(06-2022)/Exerc%C3%ADcios/Atividade%20-%20variando.py)  | `variáveis` |  [link](https://github.com/lucasCanella/jornada-Resilia/blob/main/M1Pythonfundamentos%20(06-2022)/Exerc%C3%ADcios/Atividade%20-%20variando.py) |
 
