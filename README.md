@@ -28,10 +28,8 @@ Escolhi dividir o conteúdo em módulos pois assim ficará mais fácil de acompa
 
 ## Módulo 1:
 
-
-Link do exercício | Conteúdo abordado
-:-- | :--: | :--: | :--: 
-[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | 3 Semanas 
-[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 3 Semanas Discussão.
+| Exercício | Conteúdo  
+|--|--|--|
+| [**Variando**](https://github.com/lucasCanella/jornada-Resilia/blob/main/M1Pythonfundamentos%20(06-2022)/Exerc%C3%ADcios/Atividade%20-%20variando.py)  | `variáveis` |  [link](https://github.com/lucasCanella/jornada-Resilia/blob/main/M1Pythonfundamentos%20(06-2022)/Exerc%C3%ADcios/Atividade%20-%20variando.py) |
 
 
