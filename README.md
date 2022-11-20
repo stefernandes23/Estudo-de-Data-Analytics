@@ -68,7 +68,6 @@ Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acomp
 | Proposta | Acesso | 
 |--|--|
 | To-do 1: Guia de Instalação do Python e do VScode |  [Link](https://docs.google.com/document/d/1bUfA332_vvT7TfLuMuVgFAmHhsRMa53pSWmwzvCvMLA/edit?usp=sharing)
-|To-do 2: Mapeamento de público para pesquisa ambiental | [Link]
-
+|To-do 2: Mapeamento de público para pesquisa ambiental |[Link](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/TODO%232%20-%20Luiza%20Sampaio%20%5BT20%5D.py)
 ### **Projeto de final de módulo**:
 
