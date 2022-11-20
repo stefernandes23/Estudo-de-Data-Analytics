@@ -13,7 +13,7 @@ Aqui você encontrará exercicíos de aula, mini projetos realizados individualm
 
 ### Como está organizado esse repositório?
 
-Escolhi dividir o conteúdo em módulos pois assim ficará mais fácil de acompanhar a evolução do conteúdo durante o curso. Na primeira coluna da tabela ficará o link do exercício ja resolvido, na segunda coluna ficará o conteúdo práticado no exercício em questão.
+Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acompanhar a evolução do conteúdo durante o curso. Na primeira coluna da tabela ficará o link do exercício ja resolvido, na segunda coluna ficará o conteúdo práticado no exercício em questão.
 <p>
 
 
@@ -31,9 +31,26 @@ Escolhi dividir o conteúdo em módulos pois assim ficará mais fácil de acompa
 | Exercício | Conteúdo |
 |--|--|
 | [**Variando**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Variando.py)  | `variáveis` |  
-|[**Ajustando salário**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Ajustando-sal%C3%A1rio.py)|`types`, `operadores`|
-|[**Metros para centímetros**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Metros-para-cent%C3%ADmetros.py)|`types`,`operadores`
-|[**Nome e sobrenome**]()|`types`,`operadores`|
-
-
-
+|[**Ajustando salário**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Ajustando-sal%C3%A1rio.py)|`Types`, `Operadores`|
+|[**Metros para centímetros**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Metros-para-cent%C3%ADmetros.py)|`Types`,`Operadores`
+|[**Nome e sobrenome**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/4-Nome-e-sobrenome.py)|`Types`,`Operadores`|
+|[**Calculando expressões**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/5-Calculando-express%C3%B5es.py)| `Tipos de dados`, `Operadores` |
+|[**Introdução a Funções (def)**]()|`Funções`, `Tipos de dados`, `Operadores`|
+|[**Qual seu turno?**]()| `Condicionais`,`Operadores lógicos`
+|[**Número aceito!**]()| `Validação de dados`,`Laço de repetição while`, `Condicionais`|
+|[**Ordem decrescente**]()|`Laço de repetição while`|
+|[**Multiplos de 3**]()| `Laço de repetição for`|
+|[**Fatorial**]()]| `Função`, `Def`|
+|[**É febre?**]()| `laços de repetição`, `condicionais` |
+|[**É febre? 2**]()| `Laço de repetição`, `Condicionais`|
+|[**Censo**]()|| `contadores`, `laços`, `condicionais`|
+|[**Conceitos**]()| `Operadores`,`Funções`, `Condicionais`|
+|[**Percorrendo string**]()|`Strings`,`Slice`,`Laço de repetição for`|
+|[**Beber ou dirigir**]()| `Função`,`Return`|
+|[**Calculando imposto**]()| `Função`,`Laço de repetição`, `Operadores`|
+|[**É mil?**]()|`Função`, `Condicionais`,`Validação de Dado`|
+|[**Manipulando**]()|`Manipulação de string`|
+|[**Cidades**]()|  `função`, `default`|
+|[**Manipulando 2**]| `Manipulação de string`,`Função`|
+|[**Criação de Módulo**]| `Módulos`,`Bibliotecas`|
+|[**Importando o módulo**]()| `Módulos`,`Bibliotecas`|
