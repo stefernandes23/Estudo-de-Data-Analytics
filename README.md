@@ -35,22 +35,22 @@ Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acomp
 |[**Metros para centímetros**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Metros-para-cent%C3%ADmetros.py)|`Types`,`Operadores`
 |[**Nome e sobrenome**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/4-Nome-e-sobrenome.py)|`Types`,`Operadores`|
 |[**Calculando expressões**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/5-Calculando-express%C3%B5es.py)| `Tipos de dados`, `Operadores` |
-|[**Introdução a Funções (def)**]()|`Funções`, `Tipos de dados`, `Operadores`|
-|[**Qual seu turno?**]()| `Condicionais`,`Operadores lógicos`
-|[**Número aceito!**]()| `Validação de dados`,`Laço de repetição while`, `Condicionais`|
-|[**Ordem decrescente**]()|`Laço de repetição while`|
-|[**Multiplos de 3**]()| `Laço de repetição for`|
-|[**Fatorial**]()]| `Função`, `Def`|
-|[**É febre?**]()| `laços de repetição`, `condicionais` |
-|[**É febre? 2**]()| `Laço de repetição`, `Condicionais`|
-|[**Censo**]()|| `contadores`, `laços`, `condicionais`|
-|[**Conceitos**]()| `Operadores`,`Funções`, `Condicionais`|
-|[**Percorrendo string**]()|`Strings`,`Slice`,`Laço de repetição for`|
-|[**Beber ou dirigir**]()| `Função`,`Return`|
-|[**Calculando imposto**]()| `Função`,`Laço de repetição`, `Operadores`|
-|[**É mil?**]()|`Função`, `Condicionais`,`Validação de Dado`|
-|[**Manipulando**]()|`Manipulação de string`|
-|[**Cidades**]()|  `função`, `default`|
-|[**Manipulando 2**]| `Manipulação de string`,`Função`|
-|[**Criação de Módulo**]| `Módulos`,`Bibliotecas`|
-|[**Importando o módulo**]()| `Módulos`,`Bibliotecas`|
+|[**Introdução a Funções (def)**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/6-Introdu%C3%A7%C3%A3o-funcoes.py)|`Funções`, `Tipos de dados`, `Operadores`|
+|[**Qual seu turno?**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/7-Turno.py)| `Condicionais`,`Operadores lógicos`
+|[**Número aceito!**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/8-N%C3%BAmero-aceito.py)| `Validação de dados`,`Laço de repetição while`, `Condicionais`|
+|[**Ordem decrescente**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/9-Ordem-decrescente.py)|`Laço de repetição while`|
+|[**Multiplos de 3**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/10-Multiplos-de-3.py)| `Laço de repetição for`|
+|[**Fatorial**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/11-Fatorial.py)]| `Função`, `Def`|
+|[**É febre?**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/12-%C3%89-Febre.py)| `laços de repetição`, `condicionais` |
+|[**É febre? 2**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/13-%C3%89-Febre-2.py)| `Laço de repetição`, `Condicionais`|
+|[**Censo**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/14-Censo.py)|| `contadores`, `laços`, `condicionais`|
+|[**Conceitos**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/15-Conceitos.py)| `Operadores`,`Funções`, `Condicionais`|
+|[**Percorrendo string**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/16-Percorrendo-String.py)|`Strings`,`Slice`,`Laço de repetição for`|
+|[**Beber ou dirigir**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/17-Beber-ou-dirigir.py)| `Função`,`Return`|
+|[**Calculando imposto**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/18-Calculo-imposto.py)| `Função`,`Laço de repetição`, `Operadores`|
+|[**É mil?**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/19-Maior-menor-que-mil.py)|`Função`, `Condicionais`,`Validação de Dado`|
+|[**Manipulando**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/20-Manipulando.py)|`Manipulação de string`|
+|[**Cidades**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/21-Cidade-Pais.py)|  `função`, `default`|
+|[**Manipulando 2**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/22-Def-String.py)| `Manipulação de string`,`Função`|
+|[**Criação de Módulo**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Modulo.py)| `Módulos`,`Bibliotecas`|
+|[**Importando o módulo**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/24-Utilizando-modulo.py)| `Módulos`,`Bibliotecas`|
