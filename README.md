@@ -34,7 +34,7 @@ Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acomp
 
 ## Módulo 1
 
-### Exercícios:
+### Exercícios 🤓 :
 
 | Exercício | Conteúdo |
 |--|--|
@@ -63,11 +63,16 @@ Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acomp
 |[**Criação de Módulo**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Modulo.py)| `Módulos`,`Bibliotecas`|
 |[**Importando o módulo**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/24-Utilizando-modulo.py)| `Módulos`,`Bibliotecas`|
 
-### *To-do's*:
+### *To-do's* ✅:
 
 | Proposta | Acesso | 
 |--|--|
 | To-do 1: Guia de Instalação do Python e do VScode |  [Link](https://docs.google.com/document/d/1bUfA332_vvT7TfLuMuVgFAmHhsRMa53pSWmwzvCvMLA/edit?usp=sharing)
 |To-do 2: Mapeamento de público para pesquisa ambiental |[Link](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/TODO%232%20-%20Luiza%20Sampaio%20%5BT20%5D.py)
-### **Projeto de final de módulo**:
+### **Projeto de final de módulo ⭐**:
 
+| Proposta | Acesso | 
+|--|--|
+|Desenvolver um bot de Atendimento| [Link](https://github.com/luizasampaio-s/Projeto1)
+
+**Obs**: Para que o programa do projeto rode sem que haja erros na hora da importação dos módulos é preciso que o programa princiapl e os módulos estejam todos na mesma pasta.
