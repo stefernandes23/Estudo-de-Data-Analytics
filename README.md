@@ -65,14 +65,14 @@ Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acomp
 
 ### *To-do's* ✅:
 
-| Proposta | Acesso | 
-|--|--|
-| To-do 1: Guia de Instalação do Python e do VScode |  [Link](https://docs.google.com/document/d/1bUfA332_vvT7TfLuMuVgFAmHhsRMa53pSWmwzvCvMLA/edit?usp=sharing)
-|To-do 2: Mapeamento de público para pesquisa ambiental |[Link](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/TODO%232%20-%20Luiza%20Sampaio%20%5BT20%5D.py)
+N° | Proposta | Conteúdo| Acesso | 
+|--|--|--|--|
+1 | Guia de Instalação do Python e do VScode | `Criação de documentação`| [Link](https://docs.google.com/document/d/1bUfA332_vvT7TfLuMuVgFAmHhsRMa53pSWmwzvCvMLA/edit?usp=sharing)
+2| Mapeamento de público para pesquisa ambiental |`Tipos de dados`,`Operadores`, `Entrada e saída de dados`, `Função`|[Link](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/TODO%232%20-%20Luiza%20Sampaio%20%5BT20%5D.py)
 ### **Projeto de final de módulo ⭐**:
 
-| Proposta | Acesso | 
-|--|--|
-|Desenvolver um bot de Atendimento| [Link](https://github.com/luizasampaio-s/Projeto1)
+| Proposta | Conteúdo| Acesso | 
+|--|--|--|
+|Desenvolver um bot de Atendimento| `Condicionais`, `Laços de repetição`, `Criação e importação de módulos`, `Funções`, `Procedimentos`, `Recursividade`| [Link](https://github.com/luizasampaio-s/Projeto1)
 
-**Obs**: Para que o programa do projeto rode sem que haja erros na hora de importar os módulos, é preciso que o programa principal e os módulos estejam todos na mesma pasta.
+**Obs**: Para que o programa do projeto rode sem que haja erros na hora de importar os módulos, é preciso que os arquivos do programa principal e o arquivo dos módulos estejam todos na mesma pasta.
