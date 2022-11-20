@@ -9,7 +9,7 @@
 
 Esse repositório foi criado na intenção de juntar todos os conteúdos práticados durante o bootcamp de Data Analyst da Resilia Educação para que nenhum aprendizado da minha jornada seja perdido. 
 
-Aqui vocês encontrarão exercicíos de aula, mini projetos realizados individualmente e projetos de final módulo realizados em squad. Foram 6 meses em que tive a oportunidade de aprender muitas coisas e espero que esse repositório possa auxiliar também o seu aprendizado.
+Aqui você encontrará exercicíos de aula, mini projetos realizados individualmente e projetos de final módulo realizados em squad. Foram 6 meses em que tive a oportunidade de aprender muitas coisas e espero que esse repositório possa auxiliar também o seu aprendizado.
 
 ### Como está organizado esse repositório?
 
@@ -26,12 +26,14 @@ Escolhi dividir o conteúdo em módulos pois assim ficará mais fácil de acompa
 
 
 
-## Módulo 1:
+## Módulo 1
 
+| Exercício | Conteúdo |
+|--|--|
+| [**Variando**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Variando.py)  | `variáveis` |  
+|[**Ajustando salário**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Ajustando-sal%C3%A1rio.py)|`types`, `operadores`|
+|[**Metros para centímetros**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Metros-para-cent%C3%ADmetros.py)|`types`,`operadores`
+|[**Nome e sobrenome**]()|`types`,`operadores`|
 
-Link do exercício | Conteúdo abordado
-:-- | :--: | :--: | :--: 
-[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | 3 Semanas 
-[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 3 Semanas Discussão.
 
 
