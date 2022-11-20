@@ -16,7 +16,13 @@ Aqui você encontrará exercicíos de aula, mini projetos realizados individualm
 Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acompanhar a evolução do conteúdo durante o curso. Na primeira coluna da tabela ficará o link do exercício ja resolvido, na segunda coluna ficará o conteúdo práticado no exercício em questão.
 <p>
 
+### O que você vai encontrar?
 
+**Exercicios de aula:** São os exercícios dados durante a aula afim de fixar o conteúdo dado. 
+
+**Mini-projetos (*To-do*):** São projetos indivíduais, geralmente passados na primeira e na segunda semana do módulo. São um pouco mais extensos que os exercícios o que dá a oportunidade de exercitar melhor os conceitos aprendidos.
+
+**Projetos de final de módulo:**  Os projetos de final de módulo se tratam de projetos bem mais extensos e por isso eram feitos em squads. Esses projetos se tratavam da nossa avaliação de módulo e eram apresentados para a turma no último dia do módulo.
 </p>
 
 **Alguma dúvida? Entre em contato comigo!**
@@ -27,6 +33,8 @@ Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acomp
 
 
 ## Módulo 1
+
+### Exercícios:
 
 | Exercício | Conteúdo |
 |--|--|
@@ -40,10 +48,10 @@ Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acomp
 |[**Número aceito!**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/8-N%C3%BAmero-aceito.py)| `Validação de dados`,`Laço de repetição while`, `Condicionais`|
 |[**Ordem decrescente**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/9-Ordem-decrescente.py)|`Laço de repetição while`|
 |[**Multiplos de 3**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/10-Multiplos-de-3.py)| `Laço de repetição for`|
-|[**Fatorial**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/11-Fatorial.py)]| `Função`, `Def`|
+|[**Fatorial**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/11-Fatorial.py)| `Função`, `Def`|
 |[**É febre?**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/12-%C3%89-Febre.py)| `laços de repetição`, `condicionais` |
 |[**É febre? 2**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/13-%C3%89-Febre-2.py)| `Laço de repetição`, `Condicionais`|
-|[**Censo**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/14-Censo.py)|| `contadores`, `laços`, `condicionais`|
+|[**Censo**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/14-Censo.py)|`Contadores`, `Laço de repetição`, `condicionais`|
 |[**Conceitos**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/15-Conceitos.py)| `Operadores`,`Funções`, `Condicionais`|
 |[**Percorrendo string**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/16-Percorrendo-String.py)|`Strings`,`Slice`,`Laço de repetição for`|
 |[**Beber ou dirigir**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/17-Beber-ou-dirigir.py)| `Função`,`Return`|
@@ -54,3 +62,13 @@ Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acomp
 |[**Manipulando 2**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/22-Def-String.py)| `Manipulação de string`,`Função`|
 |[**Criação de Módulo**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/Modulo.py)| `Módulos`,`Bibliotecas`|
 |[**Importando o módulo**](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo1/24-Utilizando-modulo.py)| `Módulos`,`Bibliotecas`|
+
+### *To-do's*:
+
+| Proposta | Acesso | 
+|--|--|
+| To-do 1: Guia de Instalação do Python e do VScode |  [Link](https://docs.google.com/document/d/1bUfA332_vvT7TfLuMuVgFAmHhsRMa53pSWmwzvCvMLA/edit?usp=sharing)
+|To-do 2: Mapeamento de público para pesquisa ambiental | [Link]
+
+### **Projeto de final de módulo**:
+
