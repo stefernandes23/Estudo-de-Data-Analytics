@@ -75,4 +75,4 @@ Escolhi dividir o conteúdo por módulos pois assim ficará mais fácil de acomp
 |--|--|
 |Desenvolver um bot de Atendimento| [Link](https://github.com/luizasampaio-s/Projeto1)
 
-**Obs**: Para que o programa do projeto rode sem que haja erros na hora da importação dos módulos é preciso que o programa princiapl e os módulos estejam todos na mesma pasta.
+**Obs**: Para que o programa do projeto rode sem que haja erros na hora de importar os módulos, é preciso que o programa principal e os módulos estejam todos na mesma pasta.
