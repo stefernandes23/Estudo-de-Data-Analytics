@@ -83,19 +83,19 @@ N° | Proposta | Conteúdo| Acesso |
 
 | Exercício | Conteúdo |
 |---|---|
-|[Listando]()|`Listas`|
-|[Listando 2]()|`Listas`,`Concatenando listas`,`Manipulação de listas`|
-|[Multiplicando listas]()|`Manipulação de listas`,`Operação entre listas`|
-|[Removendo ímpares]()|`Manipulação de listas`,`Listas`|
-|[Pizzaria]()|`Listas`, `Manipulação de listas`, `cópias`|
-|[List comprehension]()|`List comprehension`| 
-|[Filas]()| `Função`, `Listas`, `Filas`|
-|[Empilhando]()|`Função`, `Listas`, `pilhas`|
-|[Tuplas]()| `Tuplas`|
-|[Criando tuplas]()|`Tuplas`,`Comprehension`,`Operações`|
-|[Meu primeiro dicionário]()| `Dicionários`|
-|[Alterando dicionário]()|`Dicionários`,`Métodos com dicionário`|
-|[Cidades]()| `Aninhamento`,`Dicionários`| 
-|[Clase cachorro]()|`Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`|
-|[Entrevistando]()|`Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`,`Getters`|
-|[Computador de bordo]()|  `Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`,`Getters`|
+|[Listando](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/1-Listando.py)|`Listas`|
+|[Listando 2](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/2-Listando%202.py)|`Listas`,`Concatenando listas`,`Manipulação de listas`|
+|[Multiplicando listas](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/3-Multiplicando-listas.py)|`Manipulação de listas`,`Operação entre listas`|
+|[Removendo ímpares](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/4-Removendo-impares.py)|`Manipulação de listas`,`Listas`|
+|[Pizzaria](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/5-Sabores-pizza.py)|`Listas`, `Manipulação de listas`, `cópias`|
+|[List comprehension](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/6-List-compreheensio.py)|`List comprehension`| 
+|[Filas](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/7-fila.py)| `Função`, `Listas`, `Filas`|
+|[Empilhando](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/8-pilha.py)|`Função`, `Listas`, `pilhas`|
+|[Tuplas](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/9-tupla.py)| `Tuplas`|
+|[Criando tuplas](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/10-Criando-tupla.py)|`Tuplas`,`Comprehension`,`Operações`|
+|[Meu primeiro dicionário](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/11-Primeiro-dicionario.py)| `Dicionários`|
+|[Alterando dicionário](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/12-Alterando-dicionarios.py)|`Dicionários`,`Métodos com dicionário`|
+|[Cidades](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/13-Cidades.py)| `Aninhamento`,`Dicionários`| 
+|[Clase cachorro](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/14-Classe-cachorro.py)|`Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`|
+|[Entrevistando](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/15-Entrevistas.py)|`Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`,`Getters`|
+|[Computador de bordo](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/16-Computador-de-bordo.py)|  `Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`,`Getters`|
