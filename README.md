@@ -76,3 +76,26 @@ N° | Proposta | Conteúdo| Acesso |
 |Desenvolver um bot de Atendimento| `Condicionais`, `Laços de repetição`, `Criação e importação de módulos`, `Funções`, `Procedimentos`, `Recursividade`| [Link](https://github.com/luizasampaio-s/Projeto1)
 
 **Obs**: Para que o programa do projeto rode sem que haja erros na hora de importar os módulos, é preciso que os arquivos do programa principal e o arquivo dos módulos estejam todos na mesma pasta.
+
+## Módulo 2
+
+### Exercícios 🤓 :
+
+| Exercício | Conteúdo |
+|---|---|
+|[Listando]()|`Listas`|
+|[Listando 2]()|`Listas`,`Concatenando listas`,`Manipulação de listas`|
+|[Multiplicando listas]()|`Manipulação de listas`,`Operação entre listas`|
+|[Removendo ímpares]()|`Manipulação de listas`,`Listas`|
+|[Pizzaria]()|`Listas`, `Manipulação de listas`, `cópias`|
+|[List comprehension]()|`List comprehension`| 
+|[Filas]()| `Função`, `Listas`, `Filas`|
+|[Empilhando]()|`Função`, `Listas`, `pilhas`|
+|[Tuplas]()| `Tuplas`|
+|[Criando tuplas]()|`Tuplas`,`Comprehension`,`Operações`|
+|[Meu primeiro dicionário]()| `Dicionários`|
+|[Alterando dicionário]()|`Dicionários`,`Métodos com dicionário`|
+|[Cidades]()| `Aninhamento`,`Dicionários`| 
+|[Clase cachorro]()|`Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`|
+|[Entrevistando]()|`Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`,`Getters`|
+|[Computador de bordo]()|  `Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`,`Getters`|
