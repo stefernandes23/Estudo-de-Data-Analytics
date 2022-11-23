@@ -61,5 +61,3 @@ count_aprov_cientista = len(aprov_cientista)
 print(f'O total de candidatos para a vaga de Analista de dados é {inscritos_analista} ,porém apenas {count_aprov_analista} pessoas tem o resumo com as palavras que estamos buscando.')
 print(f'O total de candidatos para a vaga de Cientista de dados é {inscritos_cientista} ,porém apenas {count_aprov_cientista} pessoas tem o resumo com as palavras que estamos buscando.')
 
-while True:
-    menu = input('O que você deseja ver agora?')
