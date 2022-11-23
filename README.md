@@ -103,4 +103,11 @@ N° | Proposta | Conteúdo| Acesso |
 ### *To-do's* ✅:
 N° | Proposta | Conteúdo| Acesso | 
 |--|--|--|--|
-3| Avaliação de notas nas etapas do processo seletivo | `Criação e manipulação de listas`, `Manipulação de strings`,`Criação de interface`| [Link](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/Todo3.py)
+3| Avaliação de notas nas etapas do processo seletivo | `Criação e manipulação de listas`, `Manipulação de strings`,`Criação de interface`| [Link](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/Todo3.py)|
+4| Avaliação de currículo por palavras chaves|`Funções`,`Criação e manipulação de listas e dicionários`, `Leitura de arquivos`, `Criação de interface` |[Link](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/Todo4.py)
+
+### **Projeto de final de módulo ⭐**:
+
+| Proposta | Conteúdo| Acesso | 
+|--|--|--|
+|Programa de pesquisa| `Programação Orientada a Objeto (POO)`, `Classes`, `Métodos`, `Construtor`, `Getters`, `Setters`, `Criação de arquivo`, `Criação de CSV`| [Link](https://github.com/luizasampaio-s/Projeto2)
