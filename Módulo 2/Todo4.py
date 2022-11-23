@@ -34,8 +34,6 @@ def analise_cv(pc_analista,cv_cand,pc_cientista):
     if escolha_vaga == 'Cientista de Dados':
         for palavra in pc_cientista:
             if palavra in cv_cand:
-             
-             
                 cientistas.update({'nome': nome_cand ,'vaga': escolha_vaga, 'cv': cv_cand})
                 if cientistas not in aprov_cientista:
                     aprov_cientista.append(cientistas.copy())
@@ -51,16 +49,17 @@ for i in range(0,qntd_candidatos, 1):
     escolha_vaga = vaga()
     if escolha_vaga == 'Analista de Dados':
         inscritos_analista += 1
-    if escolha_vaga == 'Cientista de Dados':
+    elif escolha_vaga == 'Cientista de Dados':
         inscritos_cientista += 1
+
     cv_cand = str(input('Informe o resumo do currículo: ')).title()
     analise_cv(pc_analista,cv_cand,pc_cientista)
 
 count_aprov_analista = len(aprov_analista)
 count_aprov_cientista = len(aprov_cientista)
 
+print(f'O total de candidatos para a vaga de Analista de dados é {inscritos_analista} ,porém apenas {count_aprov_analista} pessoas tem o resumo com as palavras que estamos buscando.')
+print(f'O total de candidatos para a vaga de Cientista de dados é {inscritos_cientista} ,porém apenas {count_aprov_cientista} pessoas tem o resumo com as palavras que estamos buscando.')
 
-print(len(analistas))
-print(len(cientistas))  
-# print(f'O total de candidatos para a vaga de Analista de dados {inscritos_analista} e porém apenas {count_aprov_analista} pessoas tem o resumo com as palavras que estamos buscando.')
-# print(f'O total de candidatos para a vaga de Cientista de dados {inscritos_analista} e porém apenas {count_aprov_cientista} pessoas tem o resumo com as palavras que estamos buscando.')
+while True:
+    menu = input('O que você deseja ver agora?')
