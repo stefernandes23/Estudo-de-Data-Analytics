@@ -99,3 +99,8 @@ N° | Proposta | Conteúdo| Acesso |
 |[Clase cachorro](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/14-Classe-cachorro.py)|`Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`|
 |[Entrevistando](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/15-Entrevistas.py)|`Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`,`Getters`|
 |[Computador de bordo](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/16-Computador-de-bordo.py)|  `Programação Orientada a objeto`, `Atributos`, `Métodos`, `Construtor`, `Setters`,`Getters`|
+
+### *To-do's* ✅:
+N° | Proposta | Conteúdo| Acesso | 
+|--|--|--|--|
+3| Avaliação de notas nas etapas do processo seletivo | `Criação e manipulação de listas`, `Manipulação de strings`,`Criação de interface`| [Link](https://github.com/luizasampaio-s/EstudosResilia/blob/main/M%C3%B3dulo%202/Todo3.py)
